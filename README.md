@@ -19,7 +19,7 @@
 | **Discentes** | **Docente** |  **Monitores** |
 |--------------|------------|--------------|
 | Franklin Amaral | **Prof. Adiel Teixeira de Almeida Filho** |  Maria Paula Perrazo |
-| Leonardo Bezerra | |  | Daniel Nascimento |
+| Leonardo Bezerra | | Daniel Nascimento |
 | Maíra Cabral | |  
 | Pedro Henrique Medeiros | |  
 
