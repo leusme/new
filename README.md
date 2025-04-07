@@ -90,7 +90,7 @@ O RIM é um método de decisão multicritério que:
 
 <div align="center">
   <p>🔗 <strong>Repositório:</strong> <a href="https://github.com/adielfilho/SAD/tree/main/2024.2/RIM">GitHub</a></p>
-  <p>📅 <strong>Ano:</strong> 2024</p>
+  <p>📅 <strong>Ano:</strong> 2025</p>
   <p>📍 <strong>Local:</strong> Recife, Brasil</p>
 </div>  
 
