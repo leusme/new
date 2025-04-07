@@ -12,7 +12,8 @@
 **Universidade Federal de Pernambuco (UFPE)**  
 **Centro de Informática (CIN)**  
 <div align="center">
-  <img src="https://www.cin.ufpe.br/~imprensa/marcacinpng/HC" style="width: 200px;">
+<div align="center">
+  <img src="https://www.ufpe.br/documentos/arquivos/logomarca-ufpe-2021" alt="CIN/UFPE Logo" width="250">
 </div>
 **Disciplina: Sistemas de Apoio à Decisão (2024.2)**  
 
