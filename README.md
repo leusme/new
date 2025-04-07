@@ -88,11 +88,6 @@ O RIM é um método de decisão multicritério que:
 
 ---
 
-## **📜 Licença**  
-Este projeto está sob a licença **MIT**.  
-
----
-
 <div align="center">
   <p>🔗 <strong>Repositório:</strong> <a href="https://github.com/adielfilho/SAD/tree/main/2024.2/RIM">GitHub</a></p>
   <p>📅 <strong>Ano:</strong> 2024</p>
@@ -104,6 +99,5 @@ Este projeto está sob a licença **MIT**.
 ### **🌟 Contribuições são bem-vindas!**  
 Sinta-se à vontade para abrir **issues** ou **pull requests** com melhorias.  
 
----  
+### Para mais informações acesse o documento completo do projeto em : < link >
 
-**Feito com ❤️ pela equipe RIM-UFPE.** 🚀
