@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" alt="Python Version">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
 </div>  
 
 ---
@@ -11,9 +9,6 @@
 ## **🏛️ Instituição**  
 **Universidade Federal de Pernambuco (UFPE)**  
 **Centro de Informática (CIN)**  
-<div align="center">
-  <img src="https://www.cin.ufpe.br/sites/default/files/logo-cin.png" alt="CIN Logo">
-</div>
 **Disciplina: Sistemas de Apoio à Decisão (2024.2)**  
 
 ---
