@@ -16,10 +16,10 @@
 ---
 
 ## **👥 Equipe**  
-| **Discentes** | **Docente** |  
-|--------------|------------|  
-| Franklin Amaral | **Prof. Adiel Teixeira de Almeida Filho** |  
-| Leonardo Bezerra | |  
+| **Discentes** | **Docente** |  **Monitores** |
+|--------------|------------|--------------|
+| Franklin Amaral | **Prof. Adiel Teixeira de Almeida Filho** |  Maria Paula Perrazo |
+| Leonardo Bezerra | |  | Daniel Nascimento |
 | Maíra Cabral | |  
 | Pedro Henrique Medeiros | |  
 
