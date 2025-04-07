@@ -87,5 +87,5 @@ O RIM é um método de decisão multicritério que:
 ### **🌟 Contribuições são bem-vindas!**  
 Sinta-se à vontade para abrir **issues** ou **pull requests** com melhorias.  
 
-### Para mais informações acesse o documento completo do projeto em : < link >
+### Para mais informações acesse o documento completo do projeto em : <a href="https://docs.google.com/document/d/1-ldidP-jWfqh-dLNnGp1xGAKy0j3_Nzi/edit?tab=t.0"> Relatório do projeto</a>
 
